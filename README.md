@@ -36,9 +36,3 @@ The emphasis is on understanding *why* things work, not merely using existing li
 
 The learning material may initially be scattered. The `book/` directory is intentionally kept separate so that the final structure can evolve without constraining exploration.
 
-## Philosophy
-
-> Learn it. Implement it. Measure it. Explain it. Try to break it.
-
-This repository is a record of that process.
-
